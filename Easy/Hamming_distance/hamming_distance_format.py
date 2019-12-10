@@ -1,3 +1,6 @@
+#https://docs.python.org/3.4/library/string.html
+#Refer to Format Specification Mini-Language section to understand
+
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
         a = bin(x)
