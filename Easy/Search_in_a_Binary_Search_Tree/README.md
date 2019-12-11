@@ -5,6 +5,7 @@ Given the root node of a binary search tree (BST) and a value. You need to find 
 For example, 
 
 Given the tree:
+
         4
        / \
       2   7
