@@ -1,5 +1,6 @@
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 https://www.drdobbs.com/parallel/finding-the-median-of-two-sorted-arrays/240169222
+https://www.youtube.com/watch?v=LPFhl65R7ww
 
 There are two sorted arrays nums1 and nums2 of size m and n respectively.
 
